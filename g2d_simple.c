@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include <sys/ioctl.h>
+//#include <sys/ioctl.h>
 
-#define G2D_DEVICE "/dev/g2d"
+//#define G2D_DEVICE "/dev/g2d"
 
 int main() {
     int g2d_fd;

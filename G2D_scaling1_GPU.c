@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <g2d.h>
 
 #define MAX_ITERATIONS 100
